@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 > Last Information Update: 07/12/2022
+
 ## Mitchell Penders
 - Computer Science, Business, Financial Services, and Ex-Spanish Student from Kent, England.
 - Former Owner and Lead Developer of 2CalGaming FiveM
@@ -20,5 +21,5 @@ This [video](https://www.youtube.com/watch?v=59yGjJ0FScg) was produced by myself
 
 The ownership was changed within April of 2022. The community then failed and died out, ultimately suggesting the important role the original owners (Josh Cavalente, ZedX34, and PendingMitch - myself) had taken on.
 
-> "To Infinity and Beyond!"
-> “¿Quién anda ahí? ¿Amigo? O Enemigo?” - Buzz Lightyear
+> "To Infinity and Beyond!" - Buzz Lightyear  
+> “¿Quién anda ahí? ¿Amigo? O Enemigo?” - Buzz Lightyear  
