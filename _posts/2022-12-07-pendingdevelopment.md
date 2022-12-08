@@ -1,7 +1,7 @@
 ---
 title: PendingDevelopment
 date: 2022-12-07 04:50:00 -0000
-categories: [development, PendingDevelopment]
+categories: [Development, PendingDevelopment]
 tags: [discord,development]
 ---
 
