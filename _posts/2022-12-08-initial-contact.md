@@ -15,7 +15,7 @@ METHANE is the accronym that we use to analyse scenes.
 
 | Letter | Meaning                                                                 |
 | ------ | ----------------------------------------------------------------------- |
-| M      | Major Incident? If not continue with ETHANE.                            |
+| M      | [Major Incident](/posts/assessment-major-incident/)? If not continue with ETHANE.                            |
 | E      | Exact location of the incident. (Typically identified with What3Words). |
 | T      | Type of incident.                                                       |
 | H      | Any (potential) hazards that can be identified                          |
