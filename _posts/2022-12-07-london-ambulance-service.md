@@ -1,5 +1,5 @@
 ---
-title: London Ambulance Service Introduction
+title: An Introduction to LAS
 date: 2022-12-07 18:00:00 -0000
 categories: [London Ambulance Service - AxielPD]
 tags: [fivem, ambulance]
