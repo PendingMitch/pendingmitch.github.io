@@ -15,4 +15,4 @@ Please, send this information to people that are wanting to come and join us but
 
 {: .prompt-info}
 
-> This information is for use within FiveM and not for real life use. For real life use, please seek proffessional help.
+> This information is for use within FiveM and not for real-life use. For real-life use, please seek professional help.

@@ -26,4 +26,4 @@ Please work your way down in order to associate the correct tag.
 
 {: .prompt-info}
 
-> This information is for use within FiveM and not for real life use. For real life use, please seek proffessional help.
+> This information is for use within FiveM and not for real-life use. For real-life use, please seek professional help.

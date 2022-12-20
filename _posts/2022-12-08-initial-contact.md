@@ -38,5 +38,6 @@ METHANE is the accronym that we use to analyse scenes.
 To see information about major incidents, click [here](/posts/assessment-major-incident/).
 
 ![London Ambulance Service NHS](https://www.londonambulance.nhs.uk/wp-content/uploads/2020/04/Untitled-design-5.png){: width="300px"}
+
 {: .prompt-info}
-> This information is for use within FiveM and not for real life use. For real life use, please seek proffessional help.
+> This information is for use within FiveM and not for real-life use. For real-life use, please seek professional help.

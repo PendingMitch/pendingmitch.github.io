@@ -28,4 +28,4 @@ If a stroke is confirmed, transport the patient to hospital as soon as possible.
 
 {: .prompt-info}
 
-> This information is for use within FiveM and not for real life use. For real life use, please seek proffessional help.
+> This information is for use within FiveM and not for real-life use. For real-life use, please seek professional help.
