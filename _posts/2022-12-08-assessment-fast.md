@@ -9,11 +9,12 @@ tags: [fivem, ambulance]
 
 FAST is the accronym that we use to analyse for strokes.
 
-| Letter | Meaning | Action                                                     |
-| ------ | ------- | ---------------------------------------------------------- |
-| F      | Face    | Ask the person to smile. Is one side of the face drooping? |
-| A      | Arms    | Ask the person to raise their arms. Is one arm weak?       |
-| S      | Speech  | Ask the person to speak. Is their speech slurred?          |
+| Letter | Meaning | Action                                                                                                                      |
+| ------ | ------- | --------------------------------------------------------------------------------------------------------------------------- |
+| F      | Face    | Ask the person to smile. Is one side of the face drooping?                                                                  |
+| A      | Arms    | Ask the person to raise their arms. Is one arm weak?                                                                        |
+| S      | Speech  | Ask the person to speak. Is their speech slurred?                                                                           |
+| T      | Time    | Seek treatment at hospital. 4 hours should be the maximum time between the start of the stroke to the treatment at hospital |
 
 {: .prompt-info}
 
