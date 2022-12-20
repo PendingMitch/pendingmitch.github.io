@@ -18,7 +18,7 @@ tags: [fivem, ambulance]
 
 ### So... Simply
 
-Tension pneumothorax is the gathering of air between two thin membranes that line and surround the lungs. This compresses the lungs and restricts the volume of blood that can return to the heart. This in turn reduces the cardiac output.
+Tension pneumothorax is the gathering of air between two thin membranes that line and surround the lungs. This compresses the lungs and both restricts the capacity of the lungs and volume of blood that can return to the heart. This in turn reduces the cardiac output.
 
 ## Needle Decompression. What is it?
 
