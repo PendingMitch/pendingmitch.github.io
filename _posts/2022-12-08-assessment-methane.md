@@ -5,7 +5,7 @@ categories: [London Ambulance Service - AxielPD, Assessments]
 tags: [fivem, ambulance]
 ---
 
-METHANE is the accronym that we use to analyse scenes.
+METHANE is the accronym that supervisors and incident commands use to analyse scenes.
 
 | Letter | Meaning                                                                           |
 | ------ | --------------------------------------------------------------------------------- |
