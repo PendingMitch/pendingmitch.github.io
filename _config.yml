@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.discordapp.com/avatars/575404286645764106/5c02405d43d49a294130310c9951cf32.webp
+avatar: https://cdn.discordapp.com/avatars/575404286645764106/2f1f9e139cbb69c77cca78e099580fc0.webp
 
 # boolean type, the global switch for ToC in posts.
 toc: true
