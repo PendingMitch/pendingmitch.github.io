@@ -7,9 +7,11 @@ order: 4
 
 ## Mitchell Penders
 - Computer Science, Business, Financial Services, and Ex-Spanish Student from Kent, England.
+- Lead Developer of Astrocom V2
 - Former Owner and Lead Developer of 2CalGaming FiveM
 - Former Supervisor of AOGRP / AOGPD (2021), 2CalRP (2021 - 2022), FivePDRP (2022), FiveM
-- Senior Paramedic (2022 - Present) and HART Paramedic (2022 - Present) AxielPD FiveM 
+- ~~Senior Paramedic~~ Clinical Team Manager (2022 - 2023), Emergency Resource Dispatch (2022 - 2023), Emergency Resource Dispatch Trainer (2022 - 2023), HART Paramedic (2022 - 2023) AxielPD FiveM 
+- Community Manager (2023 - Present) and Lead Developer (2023 - Present) of [Coastal Response Roleplay](https://discord.gg/KA6WzcED62).
 
 ## <a href="https://www.youtube.com/watch?v=59yGjJ0FScg" target="_blank"><img src="https://media.discordapp.net/attachments/793541807026733088/931921299306057748/2CalRP_Logo.png" width="50"></a> 2CalRP 
 
