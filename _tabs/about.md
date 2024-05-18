@@ -11,7 +11,6 @@ order: 4
 - Junior IT Support Analyst from Kent, England
 - A Levels in Computer Science, Business, Financial Services.
 - Former Lead Developer of Astrocom V2, 2CalRP, and Coastal Response
-- Developer at RiceRP
 
 # Experience
 ## Junior IT Support Analyst (SEPT 23 - PRESENT)
@@ -37,12 +36,14 @@ Providing support to over 600 consumers (100 for Costal Response) of our online 
 
 # FiveM Information
 
-> Last Information Update: 17/03/2024
+> Last Information Update: 18/05/2024
 - Former Owner and Lead Developer of 2CalGaming FiveM
 - Former Supervisor of AOGRP / AOGPD (2021), 2CalRP (2021 - 2022), FivePDRP (2022), FiveM
 - ~~Senior Paramedic~~ Clinical Team Manager (2022 - 2023), Emergency Resource Dispatcher (2022 - 2023), Emergency Resource Dispatch Trainer (2022 - 2023), HART Paramedic (2022 - 2023) AxielPD FiveM
 - Community Manager (2023 - 2023) and Lead Developer (2023 - 2023) of [Coastal Response Roleplay](https://discord.gg/KA6WzcED62).
-- Operational Delivery Manager for London Ambulance Service (2023 - 2024) AxielPD.
+- Operational Delivery Manager for AxielPD's London Ambulance Service (2023 - 2024).
+- Developer at Rice RP (2023-2024)
+- Educational & Development Manager for Urban London's Ambulance Service (2024 - 2024)
 
 ## <a href="https://www.youtube.com/watch?v=59yGjJ0FScg" target="_blank"><img src="https://i.imgur.com/t8q2dQU.png" width="50"></a> 2CalRP
 
