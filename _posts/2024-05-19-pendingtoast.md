@@ -36,8 +36,8 @@ TriggerEvent("PendingToast:Notify", NotificationOptions, SoundInfo)
 
 E.G.:  
 Src: 1  
-NotificationOptions: [See below...]('#NotificationOptions')  
-SoundInfo: [See below...]('#SoundInfo')
+NotificationOptions: [See below...]('#NotificationOptions)  
+SoundInfo: [See below...]('#SoundInfo)
 
 ## Notify - From Client to Server to Another Client
 
@@ -47,8 +47,8 @@ TriggerServerEvent("PendingToast:Notify", Src, NotificationOptions, SoundInfo)
 
 E.G.:  
 Src: 1  
-NotificationOptions: [See below...]('#NotificationOptions')  
-SoundInfo: [See below...]('#SoundInfo')
+NotificationOptions: [See below...]('#NotificationOptions)  
+SoundInfo: [See below...]('#SoundInfo)
 
 ## Notify - From Server to Client
 
@@ -58,8 +58,8 @@ TriggerClientEvent("PendingToast:Notify", Src, NotificationOptions, SoundInfo)
 
 E.G.:  
 Src: 1  
-NotificationOptions: [See below...]('#NotificationOptions')  
-SoundInfo: [See below...]('#SoundInfo')
+NotificationOptions: [See below...]('#NotificationOptions)  
+SoundInfo: [See below...]('#SoundInfo)
 
 ## Notify - Presets
 
