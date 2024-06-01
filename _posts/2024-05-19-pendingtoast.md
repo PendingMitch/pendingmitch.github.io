@@ -7,7 +7,7 @@ tags: [fivem, development]
 
 ## Background
 
-[PendingToast](https://pendingmitch.tebex.io/package/6273535) is a project that aims to create a simple method of sending toast notifications to your players.
+[PendingToast](https://pendingmitch.tebex.io/category/fivem) is a project that aims to create a simple method of sending toast notifications to your players.
 
 Playing on different servers it becomes apparent that new players may struggle understanding nuances about certain scripts. For example, they may question why they can't open a certain door as a civilian. No longer! With PendingToast, you can let them know that they can't open the door because they aren't on duty in a simple, effective manner.
 
