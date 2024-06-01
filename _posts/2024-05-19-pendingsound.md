@@ -7,7 +7,7 @@ tags: [fivem, development]
 
 ## Background
 
-PendingSound is a FiveM utility resource that allows you to play sounds to your clients in a modular way. It's the first of it's kind; the FiveM client code was even changed because of it. See the [FiveM forum thread](https://forum.cfx.re/t/sharing-audio-between-resources/5012406/6?u=pendingmitch).
+[PendingSound](https://pendingmitch.tebex.io/category/fivem) is a FiveM utility resource that allows you to play sounds to your clients in a modular way. It's the first of it's kind; the FiveM client code was even changed because of it. See the [FiveM forum thread](https://forum.cfx.re/t/sharing-audio-between-resources/5012406/6?u=pendingmitch).
 
 ## Play a sound
 
