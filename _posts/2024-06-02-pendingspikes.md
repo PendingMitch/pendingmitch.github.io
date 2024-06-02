@@ -9,9 +9,23 @@ tags: [fivem, development]
 
 [PendingSpikes](https://pendingmitch.tebex.io/category/fivem) is a project that aims to create a simple, effective, and beautiful script for utilisiing spike strips in FiveM.
 
+## Features
+
+- Player Animations.
+- Spike strip animations.
+- Customisable spike strip length.
+- Command and interaction support.
+- Removing all spikes in a group at one time.
+- Integration with RPEmotes.
+- Exports and Events for developers.
+
 ## Try it Out!
 
 Try it out at [PendingDevelopment's Tebex Webstore](https://pendingmitch.tebex.io/category/fivem).
+
+## Credits
+
+- [loaf_spikestrips](https://github.com/loaf-scripts/loaf_spikestrips) for the original script (forked from v1.2.1). - PendingDevelopment will work to fix any of the performance issues addressed between v1.2.1 and v2.1.0 in releases coming soon.
 
 ---
 
@@ -56,7 +70,7 @@ exports.ox_target:addModel(VehicleName, {
     {
         label = "Stinger",
         onSelect = function()
-            if exports.PendingSpikes:DoesPlayerHaveSpikesInHand() then
+            if not exports.PendingSpikes:DoesPlayerHaveSpikesInHand() then
                 exports.PendingSpikes:TakeOutSpikes(true)
             else
                 exports.PendingSpikes:PutAwaySpikes(true)
