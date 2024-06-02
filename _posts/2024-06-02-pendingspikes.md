@@ -29,7 +29,7 @@ Try it out at [PendingDevelopment's Tebex Webstore](https://pendingmitch.tebex.i
 
 ---
 
-## Send a Notification
+## Install
 
 1. Add `PendingSpikes` to your `resources` folder.
 2. Add `ensure PendingSpikes` to your server.cfg.
