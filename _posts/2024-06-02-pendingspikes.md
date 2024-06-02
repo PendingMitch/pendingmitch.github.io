@@ -11,7 +11,7 @@ tags: [fivem, development]
 
 ## Try it Out!
 
-Try it out at [PendingDevelopment's Tebex Webstore](<[https://pendingmitch.tebex.io/package/6273535](https://pendingmitch.tebex.io/category/fivem)>).
+Try it out at [PendingDevelopment's Tebex Webstore](https://pendingmitch.tebex.io/category/fivem).
 
 ---
 
