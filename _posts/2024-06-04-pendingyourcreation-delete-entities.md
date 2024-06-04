@@ -26,8 +26,8 @@ end)
 
 ## References
 
-[RegisterNetEvent](https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/RegisterNetEvent/)
-[AddEventHandler](https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/AddEventHandler/)
-[NetworkGetNetworkIdFromEntity](https://docs.fivem.net/natives/?_0x9E35DAB6)
-[NetworkGetEntityFromNetworkId](https://docs.fivem.net/natives/?_0x5B912C3F)
-[DeleteEntity](https://docs.fivem.net/natives/?_0xFAA3D236)
+[RegisterNetEvent](https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/RegisterNetEvent/)  
+[AddEventHandler](https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/AddEventHandler/)  
+[NetworkGetNetworkIdFromEntity](https://docs.fivem.net/natives/?_0x9E35DAB6)  
+[NetworkGetEntityFromNetworkId](https://docs.fivem.net/natives/?_0x5B912C3F)  
+[DeleteEntity](https://docs.fivem.net/natives/?_0xFAA3D236)  
