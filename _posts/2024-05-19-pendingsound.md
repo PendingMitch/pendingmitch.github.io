@@ -154,7 +154,7 @@ exports["PendingSound"]:PlayLocalSound({x = 0.0, y = 0.0, z = 0.0}, "sound.ogg",
 ## PlayLocalSoundURL - Client
 
 {: .prompt-info}
-> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+> Minimum Version Number: 2.0 "The Entity Update"
 
 ```lua
 exports["PendingSound"]:PlayLocalSoundURL(pos, url, volume)
@@ -167,7 +167,7 @@ volume: 1
 ## PlayLocalSoundURL - Server
 
 {: .prompt-info}
-> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+> Minimum Version Number: 2.0 "The Entity Update"
 
 ```lua
 exports["PendingSound"]:PlayLocalSoundURL(pos, url, volume)
@@ -182,7 +182,7 @@ volume: 1
 ## PlaySoundFromEntity - Client
 
 {: .prompt-info}
-> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+> Minimum Version Number: 2.0 "The Entity Update"
 
 ```lua
 exports["PendingSound"]:PlaySoundFromEntity(sound, resource, entity, volume)
@@ -207,7 +207,7 @@ exports.PendingSound:PlaySoundFromEntity("sound.ogg", GetCurrentResourceName(), 
 ## PlaySoundFromEntityURL - Client
 
 {: .prompt-info}
-> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+> Minimum Version Number: 2.0 "The Entity Update"
 
 ```lua
 exports["PendingSound"]:PlaySoundFromEntity(url, entity, volume)
@@ -285,7 +285,7 @@ exports["PendingSound"]:StopSoundURL(-1, "https://mywebsite.com/mymp3.mp3")
 ## StopSoundFromEntity - Client
 
 {: .prompt-info}
-> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+> Minimum Version Number: 2.0 "The Entity Update"
 
 ```lua
 exports["PendingSound"]:StopSoundFromEntity(Entity)
