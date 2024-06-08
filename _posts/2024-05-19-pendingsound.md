@@ -125,7 +125,6 @@ exports["PendingSound"]:PlayLocalSound({x = 0.0, y = 0.0, z = 0.0}, "sound.ogg",
 
 ## PlayLocalSound - Server
 
-!! This is an alias of 
 ```lua
 TriggerServerEvent("PendingSound:PlayLocalSound", pos, sound, resource, volume)
 ```
@@ -149,6 +148,79 @@ You can combat repeating "MyResource" by doing the following:
 ```lua
 exports["PendingSound"]:PlayLocalSound({x = 0.0, y = 0.0, z = 0.0}, "sound.ogg", GetCurrentResourceName(), 1)
 ```
+
+---
+
+## PlayLocalSoundURL - Client
+
+{: .prompt-info}
+> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+
+```lua
+exports["PendingSound"]:PlayLocalSoundURL(pos, url, volume)
+```
+E.G.:  
+pos: {x = 0.0, y = 0.0, z = 0.0}  
+url: "https://mywebsite.com/mymp3.mp3"  
+volume: 1
+
+## PlayLocalSoundURL - Server
+
+{: .prompt-info}
+> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+
+```lua
+exports["PendingSound"]:PlayLocalSoundURL(pos, url, volume)
+```
+E.G.:  
+pos: {x = 0.0, y = 0.0, z = 0.0}  
+url: "https://mywebsite.com/mymp3.mp3"  
+volume: 1
+
+---
+
+## PlaySoundFromEntity - Client
+
+{: .prompt-info}
+> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+
+```lua
+exports["PendingSound"]:PlaySoundFromEntity(sound, resource, entity, volume)
+```
+E.G.:  
+sound: "sound.ogg"  
+resource: "MyResource"
+entity: GetPlayerPed(-1)
+volume: 1
+
+```lua
+exports.PendingSound:PlaySoundFromEntity("sound.ogg", "MyResource", GetPlayerPed(-1), 1)
+```
+
+
+You can combat repeating "MyResource" by doing the following:
+```lua
+exports.PendingSound:PlaySoundFromEntity("sound.ogg", GetCurrentResourceName(), GetPlayerPed(-1), 1)
+```
+
+
+## PlaySoundFromEntityURL - Client
+
+{: .prompt-info}
+> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+
+```lua
+exports["PendingSound"]:PlaySoundFromEntity(url, entity, volume)
+```
+E.G.:  
+url: "https://mywebsite.com/mymp3.mp3"  
+entity: GetPlayerPed(-1)
+volume: 1
+
+```lua
+exports.PendingSound:PlaySoundFromEntity("https://mywebsite.com/mymp3.mp3", GetPlayerPed(-1), 1)
+```
+
 ----
 ## StopSound - Client
 
@@ -209,3 +281,13 @@ url: "https://mywebsite.com/mymp3.mp3"
 ```lua
 exports["PendingSound"]:StopSoundURL(-1, "https://mywebsite.com/mymp3.mp3")
 ```
+
+## StopSoundFromEntity - Client
+
+{: .prompt-info}
+> Minimum Version Number: (2.0 "The Entity Update")[/posts/pendingsound-update-v2.0/]
+
+```lua
+exports["PendingSound"]:StopSoundFromEntity(Entity)
+```
+entity: GetPlayerPed(-1)
