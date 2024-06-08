@@ -9,6 +9,9 @@ tags: [fivem, development]
 
 ## PlaySoundFromEntity - Client
 
+{: .prompt-info}
+> Please note that if the entity plays a sound whilst out of render for the player, the entity will not play that sound.
+
 ```lua
 exports["PendingSound"]:PlaySoundFromEntity(sound, resource, entity, volume)
 ```
@@ -30,6 +33,9 @@ exports.PendingSound:PlaySoundFromEntity("sound.ogg", GetCurrentResourceName(), 
 
 
 ## PlaySoundFromEntityURL - Client
+
+{: .prompt-info}
+> Please note that if the entity plays a sound whilst out of render for the player, the entity will not play that sound.
 
 ```lua
 exports["PendingSound"]:PlaySoundFromEntity(url, entity, volume)
