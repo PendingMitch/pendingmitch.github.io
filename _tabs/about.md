@@ -45,7 +45,7 @@ Providing support to over 600 consumers (100 for Costal Response) of our online 
 - Developer at Rice RP (2023-2024)
 - Educational & Development Manager for Urban London's Ambulance Service (2024 - 2024)
 
-## <a href="https://www.youtube.com/watch?v=59yGjJ0FScg" target="_blank" alt=""><img src="https://i.imgur.com/t8q2dQU.png" width="50"></a> 2CalRP
+## 2CalRP
 
 2CalRP was a gaming community that spanned over 600 members, which started in May 2021. The community grew rapidly. The main aim for this was to produce a better product from what we (the three owners) had previously experienced - namely the administrative personnel that we had encountered and their systems.
 
