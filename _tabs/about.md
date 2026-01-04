@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Last Information Update: 17/03/2024
+> Last Information Update: 17/03/2025
 
 # Mitchell Penders
 
@@ -13,7 +13,8 @@ order: 4
 - Former Lead Developer of Astrocom V2, 2CalRP, and Coastal Response
 
 # Experience
-## Junior IT Support Analyst (SEPT 23 - PRESENT)
+## IT Support Analyst (MARCH 25 - PRESENT)
+## Junior IT Support Analyst (SEPT 23 - MARCH 25)
 - Provisioning Windows 10, and Windows 11 devices with the use of Network (PXE Boot) and USB booting with Ivanti Management’s Provisioning tool
 - Provisioning Android and iOS devices through Ivanti’s MobileIron.
 - Assisting customers with IT Support queries over the phone and in person.
@@ -36,14 +37,14 @@ Providing support to over 600 consumers (100 for Costal Response) of our online 
 
 # FiveM Information
 
-> Last Information Update: 18/05/2024
-- Former Owner and Lead Developer of 2CalGaming FiveM
-- Former Supervisor of AOGRP / AOGPD (2021), 2CalRP (2021 - 2022), FivePDRP (2022), FiveM
+> Last Information Update: 04/01/2024
+- Co-Owner and Lead Developer of 2CalGaming FiveM (2021-2022)
+- Supervisor at AOGRP / AOGPD (2021), 2CalRP (2021 - 2022), FivePDRP (2022), FiveM
 - ~~Senior Paramedic~~ Clinical Team Manager (2022 - 2023), Emergency Resource Dispatcher (2022 - 2023), Emergency Resource Dispatch Trainer (2022 - 2023), HART Paramedic (2022 - 2023) AxielPD FiveM
 - Community Manager (2023 - 2023) and Lead Developer (2023 - 2023) of [Coastal Response Roleplay](https://discord.gg/KA6WzcED62).
 - Operational Delivery Manager for AxielPD's London Ambulance Service (2023 - 2024).
-- Developer at Rice RP (2023-2024)
-- Educational & Development Manager for Urban London's Ambulance Service (2024 - 2024)
+- Developer and Deputy Development Team Leader at Rice RP (2023-2024)
+- Educational & Development Manager (2024 - 2024), Quality Assurance Manager (2024 - 2025), Deputy Chief Executive Officer (2025 - 2025) and Incident Response Officer (2025 - PRESENT) for Urban London's Ambulance Service 
 
 ## 2CalRP
 
