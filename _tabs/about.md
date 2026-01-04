@@ -8,7 +8,7 @@ order: 4
 
 # Mitchell Penders
 
-- Junior IT Support Analyst from Kent, England
+- IT Support Analyst from Kent, England
 - A Levels in Computer Science, Business, Financial Services.
 - Former Lead Developer of Astrocom V2, 2CalRP, and Coastal Response
 
